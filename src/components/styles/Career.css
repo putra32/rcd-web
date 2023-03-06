@@ -1,0 +1,9 @@
+.box-career {
+    width: 56.25rem;
+}
+
+@media only screen and (max-width: 600px) {
+    .box-career {
+        width: 97%;
+    }
+}
